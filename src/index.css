@@ -1,3 +1,11 @@
+
+
+@font-face {
+    font-family: onest;
+    src: url("./assets/Onest-VariableFont_wght.ttf");
+    font-display: swap;
+}
+
 :root {
     font-family: onest;
     font-weight: 400 !important;
